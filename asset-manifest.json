@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/shopping-list/static/css/main.7c50da51.chunk.css",
-    "main.js": "/shopping-list/static/js/main.56104890.chunk.js",
-    "main.js.map": "/shopping-list/static/js/main.56104890.chunk.js.map",
+    "main.css": "/shopping-list/static/css/main.b7cc8be9.chunk.css",
+    "main.js": "/shopping-list/static/js/main.b44a80f0.chunk.js",
+    "main.js.map": "/shopping-list/static/js/main.b44a80f0.chunk.js.map",
     "runtime-main.js": "/shopping-list/static/js/runtime-main.3c476ce6.js",
     "runtime-main.js.map": "/shopping-list/static/js/runtime-main.3c476ce6.js.map",
-    "static/js/2.2a7f2e2b.chunk.js": "/shopping-list/static/js/2.2a7f2e2b.chunk.js",
-    "static/js/2.2a7f2e2b.chunk.js.map": "/shopping-list/static/js/2.2a7f2e2b.chunk.js.map",
+    "static/js/2.c35d9657.chunk.js": "/shopping-list/static/js/2.c35d9657.chunk.js",
+    "static/js/2.c35d9657.chunk.js.map": "/shopping-list/static/js/2.c35d9657.chunk.js.map",
     "index.html": "/shopping-list/index.html",
-    "precache-manifest.52c4de35605bfb8634655ad76b58f910.js": "/shopping-list/precache-manifest.52c4de35605bfb8634655ad76b58f910.js",
+    "precache-manifest.e8b14ff88e97549426cdd1b621937d95.js": "/shopping-list/precache-manifest.e8b14ff88e97549426cdd1b621937d95.js",
     "service-worker.js": "/shopping-list/service-worker.js",
-    "static/css/main.7c50da51.chunk.css.map": "/shopping-list/static/css/main.7c50da51.chunk.css.map",
-    "static/js/2.2a7f2e2b.chunk.js.LICENSE.txt": "/shopping-list/static/js/2.2a7f2e2b.chunk.js.LICENSE.txt",
+    "static/css/main.b7cc8be9.chunk.css.map": "/shopping-list/static/css/main.b7cc8be9.chunk.css.map",
+    "static/js/2.c35d9657.chunk.js.LICENSE.txt": "/shopping-list/static/js/2.c35d9657.chunk.js.LICENSE.txt",
+    "static/media/arrow.c751ba37.svg": "/shopping-list/static/media/arrow.c751ba37.svg",
     "static/media/bottle.svg": "/shopping-list/static/media/bottle.2d35f32b.svg",
     "static/media/cart.svg": "/shopping-list/static/media/cart.9ab5a995.svg",
     "static/media/chart.svg": "/shopping-list/static/media/chart.459c4f25.svg",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3c476ce6.js",
-    "static/js/2.2a7f2e2b.chunk.js",
-    "static/css/main.7c50da51.chunk.css",
-    "static/js/main.56104890.chunk.js"
+    "static/js/2.c35d9657.chunk.js",
+    "static/css/main.b7cc8be9.chunk.css",
+    "static/js/main.b44a80f0.chunk.js"
   ]
 }
