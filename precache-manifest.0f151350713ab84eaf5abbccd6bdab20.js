@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5dfb5327ea70f53947363b6919388c8",
+    "revision": "01d8bf7500b0f67f6859933b59ff2f97",
     "url": "/shopping-list/index.html"
   },
   {
-    "revision": "24cb04730b966abedbe0",
-    "url": "/shopping-list/static/css/main.bd793729.chunk.css"
+    "revision": "98c790e35d0997715966",
+    "url": "/shopping-list/static/css/main.ec7bf7b4.chunk.css"
   },
   {
-    "revision": "a0d60147141a70444ecc",
-    "url": "/shopping-list/static/js/2.0a111a71.chunk.js"
+    "revision": "a5b7d50f810b68391d25",
+    "url": "/shopping-list/static/js/2.2ba7a778.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/shopping-list/static/js/2.0a111a71.chunk.js.LICENSE.txt"
+    "url": "/shopping-list/static/js/2.2ba7a778.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24cb04730b966abedbe0",
-    "url": "/shopping-list/static/js/main.f0fb10fd.chunk.js"
+    "revision": "98c790e35d0997715966",
+    "url": "/shopping-list/static/js/main.57ebdf77.chunk.js"
   },
   {
     "revision": "99cbde69fe1f8f2b7b84",
     "url": "/shopping-list/static/js/runtime-main.3c476ce6.js"
+  },
+  {
+    "revision": "0d4c7f00684061c950b07b74f5bf09ca",
+    "url": "/shopping-list/static/media/add.0d4c7f00.svg"
   },
   {
     "revision": "c751ba37e8042e3dc51a5eca49df18d1",
@@ -40,12 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shopping-list/static/media/chart.459c4f25.svg"
   },
   {
+    "revision": "a53ce6ec399591d5ad49c377381ae045",
+    "url": "/shopping-list/static/media/create.a53ce6ec.svg"
+  },
+  {
+    "revision": "201e99d7e9031ecd0fd36e426b40ad82",
+    "url": "/shopping-list/static/media/delete.201e99d7.svg"
+  },
+  {
     "revision": "b4ea3d627ff88b3c892a86faf0579243",
     "url": "/shopping-list/static/media/list.b4ea3d62.svg"
   },
   {
     "revision": "cd82407e3d9829f20034638eefada5f3",
     "url": "/shopping-list/static/media/logo.cd82407e.svg"
+  },
+  {
+    "revision": "1afe64a2956219e5864d0fddb1f52ec0",
+    "url": "/shopping-list/static/media/remove.1afe64a2.svg"
   },
   {
     "revision": "3ed09143d927d7e936efca63f9da9d7c",
