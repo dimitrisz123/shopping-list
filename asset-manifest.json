@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shopping-list/static/css/main.ec7bf7b4.chunk.css",
-    "main.js": "/shopping-list/static/js/main.57ebdf77.chunk.js",
-    "main.js.map": "/shopping-list/static/js/main.57ebdf77.chunk.js.map",
+    "main.css": "/shopping-list/static/css/main.1a644e56.chunk.css",
+    "main.js": "/shopping-list/static/js/main.159189ea.chunk.js",
+    "main.js.map": "/shopping-list/static/js/main.159189ea.chunk.js.map",
     "runtime-main.js": "/shopping-list/static/js/runtime-main.3c476ce6.js",
     "runtime-main.js.map": "/shopping-list/static/js/runtime-main.3c476ce6.js.map",
-    "static/js/2.2ba7a778.chunk.js": "/shopping-list/static/js/2.2ba7a778.chunk.js",
-    "static/js/2.2ba7a778.chunk.js.map": "/shopping-list/static/js/2.2ba7a778.chunk.js.map",
+    "static/js/2.74a69a5e.chunk.js": "/shopping-list/static/js/2.74a69a5e.chunk.js",
+    "static/js/2.74a69a5e.chunk.js.map": "/shopping-list/static/js/2.74a69a5e.chunk.js.map",
     "index.html": "/shopping-list/index.html",
-    "precache-manifest.0f151350713ab84eaf5abbccd6bdab20.js": "/shopping-list/precache-manifest.0f151350713ab84eaf5abbccd6bdab20.js",
+    "precache-manifest.a9536b13c405bf85cb5939aa88fcad3b.js": "/shopping-list/precache-manifest.a9536b13c405bf85cb5939aa88fcad3b.js",
     "service-worker.js": "/shopping-list/service-worker.js",
-    "static/css/main.ec7bf7b4.chunk.css.map": "/shopping-list/static/css/main.ec7bf7b4.chunk.css.map",
-    "static/js/2.2ba7a778.chunk.js.LICENSE.txt": "/shopping-list/static/js/2.2ba7a778.chunk.js.LICENSE.txt",
+    "static/css/main.1a644e56.chunk.css.map": "/shopping-list/static/css/main.1a644e56.chunk.css.map",
+    "static/js/2.74a69a5e.chunk.js.LICENSE.txt": "/shopping-list/static/js/2.74a69a5e.chunk.js.LICENSE.txt",
     "static/media/add.0d4c7f00.svg": "/shopping-list/static/media/add.0d4c7f00.svg",
     "static/media/arrow.c751ba37.svg": "/shopping-list/static/media/arrow.c751ba37.svg",
     "static/media/bottle.svg": "/shopping-list/static/media/bottle.2d35f32b.svg",
@@ -21,14 +21,14 @@
     "static/media/delete.201e99d7.svg": "/shopping-list/static/media/delete.201e99d7.svg",
     "static/media/list.svg": "/shopping-list/static/media/list.b4ea3d62.svg",
     "static/media/logo.svg": "/shopping-list/static/media/logo.cd82407e.svg",
-    "static/media/remove.1afe64a2.svg": "/shopping-list/static/media/remove.1afe64a2.svg",
+    "static/media/reduce.1afe64a2.svg": "/shopping-list/static/media/reduce.1afe64a2.svg",
     "static/media/replay.svg": "/shopping-list/static/media/replay.3ed09143.svg",
     "static/media/Search.css": "/shopping-list/static/media/search.db5d8122.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c476ce6.js",
-    "static/js/2.2ba7a778.chunk.js",
-    "static/css/main.ec7bf7b4.chunk.css",
-    "static/js/main.57ebdf77.chunk.js"
+    "static/js/2.74a69a5e.chunk.js",
+    "static/css/main.1a644e56.chunk.css",
+    "static/js/main.159189ea.chunk.js"
   ]
 }
